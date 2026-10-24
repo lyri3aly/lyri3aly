@@ -22,8 +22,11 @@
   </tr>
 </table>
 
+
 ## 🧸 my stack
+
 <div align="center">
+
 ![TypeScript](https://img.shields.io/badge/TypeScript-C9DDF5?style=flat-square&logo=typescript&logoColor=634632)
 ![JavaScript](https://img.shields.io/badge/JavaScript-FFF5E8?style=flat-square&logo=javascript&logoColor=A97550)
 ![Java](https://img.shields.io/badge/Java-F4DCE5?style=flat-square&logo=openjdk&logoColor=634632)
@@ -33,6 +36,7 @@
 ![HTML5](https://img.shields.io/badge/HTML5-F4DCE5?style=flat-square&logo=html5&logoColor=634632)
 ![CSS3](https://img.shields.io/badge/CSS3-C9DDF5?style=flat-square&logo=css3&logoColor=634632)
 ![Git](https://img.shields.io/badge/Git-EAF2FC?style=flat-square&logo=git&logoColor=A97550)
+
 </div>
 
 ## 🩵 find me elsewhere on the internet
