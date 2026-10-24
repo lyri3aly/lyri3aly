@@ -1,3 +1,9 @@
+<!--
+  PASTEL COOKIE PROFILE README
+  Replace the sample links and text with your own details.
+  The clickable cookie opens the separate GitHub Pages game because GitHub READMEs cannot run JavaScript.
+-->
+
 <div align="center">
   <img src="assets/header.svg" alt="A pastel blue pixel-art banner for Alyah's nook" width="100%" />
   <br />
@@ -9,6 +15,8 @@
   </p>
   <p><i>making little things, learning big things, and collecting cookies along the way.</i></p>
 </div>
+
+---
 
 <table>
   <tr>
@@ -28,7 +36,8 @@
   </tr>
 </table>
 
-🍪 cookie corner
+## 🍪 cookie corner
+
 <div align="center">
   <a href="https://lyri3aly.github.io/lyri3aly/game/" title="Open the Cookie Clicker mini-game">
     <img src="assets/cookie.svg" alt="Click to open my pixel cookie game" width="128" />
@@ -38,7 +47,8 @@
   <sub>The game runs on its own GitHub Pages site; interactive JavaScript cannot run inside a README.</sub>
 </div>
 
-🧁 featured builds
+## 🧁 featured builds
+
 <table>
   <tr>
     <td width="50%" valign="top">
@@ -56,12 +66,14 @@
   </tr>
 </table>
 
-🧸 my little toolkit
+## 🧸 my little toolkit
+
 <div align="center">
   <img src="https://skillicons.dev/icons?i=python,js,ts,react,vite,html,css,git,github,vscode&theme=light" alt="Python, JavaScript, TypeScript, React, Vite, HTML, CSS, Git, GitHub, and VS Code icons" />
 </div>
 
-🌷 elsewhere in my little corner
+## 🌷 elsewhere in my little corner
+
 <div align="center">
   <a href="https://github.com/lyri3aly">GitHub</a> ·
   <a href="https://alyahli.ca">portfolio</a> ·
