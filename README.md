@@ -1,16 +1,45 @@
-## Hi there 👋
+<div align="center">
+  
+  <!-- Cute Header Gif -->
+  <img src="https://giphy.com" width="150px" />
 
-<!--
-**lyri3aly/lyri3aly** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  <h1>✨ hi there, i'm [your name]! ✨</h1>
+  <p><i>she/her 🌸 student developer & designer 🍓 soft-girl aesthetic lover</i></p>
 
-Here are some ideas to get you started:
+  <p>
+    <img src="https://shields.io" />
+    <img src="https://shields.io" />
+  </p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  ---
+  
+</div>
+
+### 🔮 about me
+* 💌 **currently learning:** advanced frontend frameworks & digital art
+* 🎀 **obsessed with:** lo-fi beats, pastel room setups, and clean code
+* ☕ **fun fact:** i can program in 3 languages but still can't brew a perfect cup of coffee
+
+### 🧸 tech stack
+<div align="left">
+  <img src="https://shields.io" />
+  <img src="https://shields.io" />
+  <img src="https://shields.io" />
+  <img src="https://shields.io" />
+  <img src="https://shields.io" />
+</div>
+
+<br />
+
+### 🌸 my corner of github
+<div align="center">
+  <!-- Replace 'your-username' with your actual GitHub username below -->
+  <img src="https://vercel.app" width="48%" />
+  <img src="https://vercel.app" width="48%" />
+</div>
+
+<div align="center">
+  <br />
+  <p>💌 let's connect: <b>[your.email@domain.com]</b> | 🎨 portfolio: <a href="#"><b>yourwebsite.com</b></a></p>
+  <img src="https://komarev.com" />
+</div>
