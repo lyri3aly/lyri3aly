@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://img.notionusercontent.com/s3/prod-files-secure%2F5395314d-2257-4704-9b90-3f6bbea7fbdf%2F0dd2b29a-e9d5-4e54-b3ce-69a3e88560fc%2Fa7a7370b15da7601541e27310b8934f5.jpg/" />
+  <img src="assets/cloudsgithub.png" />
   <br />
   <h1>hi, i'm alyah ♡</h1>
   <p><b>student developer · AI/ML explorer · web creator</b></p>
@@ -36,29 +36,7 @@
   <a href="https://lyri3aly.github.io/lyri3aly/game/" title="Open the Cookie Clicker mini-game">
     <img src="assets/cookie.svg" alt="Click to open my pixel cookie game" width="128" />
   </a>
-  <p><b>take a tiny break!</b></p>
-  <p>Click the cookie to open the mini-game and collect crumbs. 🍪</p>
-  <sub>The game runs on its own GitHub Pages site; interactive JavaScript cannot run inside a README.</sub>
-</div>
-
-## 🧁 featured builds
-
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🎮 Rhythm Crossing</h3>
-      <p>A motion-controlled rhythm game built around phone movement and real-time interaction.</p>
-      <p><code>React</code> <code>Vite</code> <code>Socket.IO</code></p>
-      <a href="https://github.com/lyri3aly/rhythm-crossing">view repository ↗</a>
-    </td>
-    <td width="50%" valign="top">
-      <h3>👁️ Inkless</h3>
-      <p>Exploring computer vision and LED tracking as part of a team project.</p>
-      <p><code>Python</code> <code>OpenCV</code> <code>YOLO</code></p>
-      <p><i>Add your Inkless repository link here.</i></p>
-    </td>
-  </tr>
-</table>
+  <p><b>take a tiny break! (COMING SOON!)</b></p>
 
 ## 🧸 my little toolkit
 
@@ -66,12 +44,12 @@
   <img src="https://skillicons.dev/icons?i=python,js,ts,react,vite,html,css,git,github,vscode&theme=light" alt="Python, JavaScript, TypeScript, React, Vite, HTML, CSS, Git, GitHub, and VS Code icons" />
 </div>
 
-## 🌷 elsewhere in my little corner
+## 🌷 explore my corner of the internet
 
 <div align="center">
-  <a href="https://github.com/lyri3aly">GitHub</a> ·
+  <a href="https://github.com/lyri3aly">gitHub (you're here!)</a> ·
   <a href="https://alyahli.ca">portfolio</a> ·
   <a href="https://github.com/lyri3aly?tab=repositories">all my projects</a>
   <br /><br />
-  <sub>made with curiosity, a little bit of pixel dust, and probably a cookie ♡</sub>
+  <sub>made with coffee and a cookie ♡</sub>
 </div>
