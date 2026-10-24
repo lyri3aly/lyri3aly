@@ -34,6 +34,5 @@
   <a href="https://github.com/lyri3aly?tab=repositories">all my projects</a>
   <br /><br />
   <sub>made with coffee and a cookie ♡</sub>
-  <br>
-  <small>stack overflow due to the amount of homework i have</small>
+  <sup><sub>stack overflow due to the amount of homework I have</sub></sup>
 </div>
