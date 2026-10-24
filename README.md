@@ -1,11 +1,5 @@
-<!--
-  PASTEL COOKIE PROFILE README
-  Replace the sample links and text with your own details.
-  The clickable cookie opens the separate GitHub Pages game because GitHub READMEs cannot run JavaScript.
--->
-
 <div align="center">
-  <img src="assets/header.svg" alt="A pastel blue pixel-art banner for Alyah's nook" width="100%" />
+  <img src="https://img.notionusercontent.com/s3/prod-files-secure%2F5395314d-2257-4704-9b90-3f6bbea7fbdf%2F0dd2b29a-e9d5-4e54-b3ce-69a3e88560fc%2Fa7a7370b15da7601541e27310b8934f5.jpg/" />
   <br />
   <h1>hi, i'm alyah ♡</h1>
   <p><b>student developer · AI/ML explorer · web creator</b></p>
