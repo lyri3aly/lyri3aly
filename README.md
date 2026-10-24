@@ -1,3 +1,71 @@
 <div align="center">
-<h1>✨ hey, i'm alyah! ✨</h1>
-<p><i>she/her 🌸 student developer & designer</i></p>
+  <img src="assets/header.svg" alt="A pastel blue pixel-art banner for Alyah's nook" width="100%" />
+  <br />
+  <h1>hi, i'm alyah ♡</h1>
+  <p><b>student developer · AI/ML explorer · web creator</b></p>
+  <p>
+    <img src="https://img.shields.io/badge/mood-cozy%20coding-C9DDF5?style=flat-square&labelColor=FFF5E8&color=829FC5" alt="cozy coding badge" />
+    <img src="https://img.shields.io/badge/current_quest-build%20cool%20things-F4DCE5?style=flat-square&labelColor=FFF5E8&color=A97550" alt="current quest badge" />
+  </p>
+  <p><i>making little things, learning big things, and collecting cookies along the way.</i></p>
+</div>
+
+<table>
+  <tr>
+    <td width="58%" valign="top">
+      <h3>☁️ about this player</h3>
+      <p>I'm a student developer who likes building creative projects at the intersection of AI, the web, and playful experiences.</p>
+      <p>Currently exploring computer vision, interactive web apps, and all the little details that make software feel delightful.</p>
+      <p><b>currently learning:</b> AI/ML · React · making better things by building them</p>
+    </td>
+    <td width="42%" valign="top" align="center">
+      <h3>📝 quest log</h3>
+      <p>☑ make something people can play</p>
+      <p>☐ explore more computer vision</p>
+      <p>☐ ship a tiny web experiment</p>
+      <p>☐ keep learning, one commit at a time</p>
+    </td>
+  </tr>
+</table>
+
+🍪 cookie corner
+<div align="center">
+  <a href="https://lyri3aly.github.io/lyri3aly/game/" title="Open the Cookie Clicker mini-game">
+    <img src="assets/cookie.svg" alt="Click to open my pixel cookie game" width="128" />
+  </a>
+  <p><b>take a tiny break!</b></p>
+  <p>Click the cookie to open the mini-game and collect crumbs. 🍪</p>
+  <sub>The game runs on its own GitHub Pages site; interactive JavaScript cannot run inside a README.</sub>
+</div>
+
+🧁 featured builds
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🎮 Rhythm Crossing</h3>
+      <p>A motion-controlled rhythm game built around phone movement and real-time interaction.</p>
+      <p><code>React</code> <code>Vite</code> <code>Socket.IO</code></p>
+      <a href="https://github.com/lyri3aly/rhythm-crossing">view repository ↗</a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>👁️ Inkless</h3>
+      <p>Exploring computer vision and LED tracking as part of a team project.</p>
+      <p><code>Python</code> <code>OpenCV</code> <code>YOLO</code></p>
+      <p><i>Add your Inkless repository link here.</i></p>
+    </td>
+  </tr>
+</table>
+
+🧸 my little toolkit
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=python,js,ts,react,vite,html,css,git,github,vscode&theme=light" alt="Python, JavaScript, TypeScript, React, Vite, HTML, CSS, Git, GitHub, and VS Code icons" />
+</div>
+
+🌷 elsewhere in my little corner
+<div align="center">
+  <a href="https://github.com/lyri3aly">GitHub</a> ·
+  <a href="https://alyahli.ca">portfolio</a> ·
+  <a href="https://github.com/lyri3aly?tab=repositories">all my projects</a>
+  <br /><br />
+  <sub>made with curiosity, a little bit of pixel dust, and probably a cookie ♡</sub>
+</div>
