@@ -4,7 +4,7 @@
   <img src="https://giphy.com" width="150px" />
 
   <h1>✨ hi there, i'm [your name]! ✨</h1>
-  <p><i>she/her 🌸 student developer & designer 🍓 soft-girl aesthetic lover</i></p>
+  <p><i>she/her 🌸 student developer & designer</i></p>
 
   <p>
     <img src="https://shields.io" />
