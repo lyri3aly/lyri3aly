@@ -24,7 +24,15 @@
 
 ## 🧸 my stack
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,js,ts,react,vite,html,css,git,github,vscode&theme=light" alt="Python, JavaScript, TypeScript, React, Vite, HTML, CSS, Git, GitHub, and VS Code icons" />
+  ![TypeScript](https://img.shields.io/badge/TypeScript-C9DDF5?style=flat-square&logo=typescript&logoColor=634632)
+  ![JavaScript](https://img.shields.io/badge/JavaScript-FFF5E8?style=flat-square&logo=javascript&logoColor=A97550)
+  ![Java](https://img.shields.io/badge/Java-F4DCE5?style=flat-square&logo=openjdk&logoColor=634632)
+  ![Python](https://img.shields.io/badge/Python-C9DDF5?style=flat-square&logo=python&logoColor=634632)
+  ![React](https://img.shields.io/badge/React-EAF2FC?style=flat-square&logo=react&logoColor=829FC5)
+  ![Vite](https://img.shields.io/badge/Vite-FFF5E8?style=flat-square&logo=vite&logoColor=A97550)
+  ![HTML5](https://img.shields.io/badge/HTML5-F4DCE5?style=flat-square&logo=html5&logoColor=634632)
+  ![CSS3](https://img.shields.io/badge/CSS3-C9DDF5?style=flat-square&logo=css3&logoColor=634632)
+  ![Git](https://img.shields.io/badge/Git-EAF2FC?style=flat-square&logo=git&logoColor=A97550)
 </div>
 
 ## 🩵 find me elsewhere on the internet
@@ -35,5 +43,5 @@
   <br /><br />
   <sub>made with coffee and a cookie ♡</sub>
   <br>
-  <sup><sub>stack overflow due to the amount of homework I have</sub></sup>
+  <sup><sub>stack overflow because of school</sub></sup>
 </div>
