@@ -17,4 +17,4 @@ jobs:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           SHOW_TITLE: true
           SECTION_NAME: waka
-          API_BASE_URL: "https://hackatime.hackclub.com/api/hackatime/v1"
+          API_BASE_URL: "https://hackatime.hackclub.com/api/v1"
