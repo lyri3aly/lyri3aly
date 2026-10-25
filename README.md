@@ -5,7 +5,7 @@
   <p><b>student developer · AI/ML explorer · web creator</b></p>
   <p>
     <img src="https://img.shields.io/badge/mood-crashing%20out%20at%20leetcode-C9DDF5?style=flat-square&labelColor=FFF5E8&color=829FC5" alt="yeah, crashing out at leetcode" />
-    <img src="https://img.shields.io/badge/current_quest-build%20cool%20and%20cozy%20things-F4DCE5?style=flat-square&labelColor=FFF5E8&color=A97550" alt="current quest badge" />
+    <img src="https://img.shields.io/badge/%E2%99%A1_currently_building-daydream_village-A97550?style=flat-square&labelColor=F4DCE5&color=FFF5E8" alt="current quest badge" />
   </p>
   <p><i>making projects that i actually love, check them out!</i></p>
 </div>
@@ -14,7 +14,7 @@
   <tr>
     <td width="58%" valign="top">
       <h3>☁️ about me</h3>
-      <p>i'm currently a high school student working on and learning about things i'm interested in!</p>
+      <p>i'm a high school student working on and learning about things i'm interested in!</p>
       <p>exploring computer vision, game development, interactive web apps, basic machine learning, and my favourite, web development</p>
       <p><b>currently learning:</b> AI/ML · react · making better things by building them</p>
       <br>
@@ -24,9 +24,7 @@
 
 
 ## 🧸 my stack
-
 <div align="center">
-
 ![TypeScript](https://img.shields.io/badge/TypeScript-C9DDF5?style=flat-square&logo=typescript&logoColor=634632)
 ![JavaScript](https://img.shields.io/badge/JavaScript-FFF5E8?style=flat-square&logo=javascript&logoColor=A97550)
 ![Java](https://img.shields.io/badge/Java-F4DCE5?style=flat-square&logo=openjdk&logoColor=634632)
@@ -36,8 +34,11 @@
 ![HTML5](https://img.shields.io/badge/HTML5-F4DCE5?style=flat-square&logo=html5&logoColor=634632)
 ![CSS3](https://img.shields.io/badge/CSS3-C9DDF5?style=flat-square&logo=css3&logoColor=634632)
 ![Git](https://img.shields.io/badge/Git-EAF2FC?style=flat-square&logo=git&logoColor=A97550)
-
 </div>
+
+## my wakatime/hackatime stats
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 ## 🩵 find me elsewhere on the internet
 <div align="center">
@@ -47,5 +48,5 @@
   <br /><br />
   <sub>made with coffee and a cookie ♡</sub>
   <br>
-  <sup><sub>stack overflow because of school</sub></sup>
+  <sup><sub>stack overflowing because of school</sub></sup>
 </div>
