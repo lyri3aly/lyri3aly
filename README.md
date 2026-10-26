@@ -4,17 +4,17 @@
   <h1>hey, i'm alyah</h1>
   <p><b>student developer · AI/ML explorer · web creator</b></p>
   <p>
-    <img src="https://img.shields.io/badge/probably-crashing%20out%20at%20leetcode-C9DDF5?style=flat-square&labelColor=FFF5E8&color=829FC5" alt="yeah, crashing out at leetcode" />
+    <img src="https://img.shields.io/badge/I%20love-crashing%20out%20at%20leetcode-C9DDF5?style=flat-square&labelColor=FFF5E8&color=829FC5" alt="yeah, crashing out at leetcode" />
     <img src="https://img.shields.io/badge/currently_building-daydream_village-A97550?style=flat-square&labelColor=F4DCE5&color=FFF5E8" alt="currently building: daydream village" />
   </p>
-  <p><i>making projects that i actually love, check them out!</i></p>
+  <p><i>making projects that I actually love, check them out!</i></p>
 </div>
 
 <table>
   <tr>
     <td width="58%" valign="top">
       <h3>☁️ about me</h3>
-      <p>i'm a high school student working on and learning about things i'm interested in!</p>
+      <p>i'm a high school student working on and learning about things i'm interested in</p>
       <p>exploring computer vision, game development, interactive web apps, basic machine learning, and my favourite, web development</p>
       <p><b>currently learning:</b> AI/ML · react · making better things by building them</p>
       <br />
@@ -47,5 +47,5 @@
   <br /><br />
   <sub>made with coffee and a cookie ♡</sub>
   <br />
-  <sup>stack overflowing because of school</sup>
+  <sup><sub>stack overflowing because of school</sub></sup>
 </div>
