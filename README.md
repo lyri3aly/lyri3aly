@@ -4,8 +4,8 @@
   <h1>hey, i'm alyah</h1>
   <p><b>student developer · AI/ML explorer · web creator</b></p>
   <p>
-    <img src="https://img.shields.io/badge/mood-crashing%20out%20at%20leetcode-C9DDF5?style=flat-square&labelColor=FFF5E8&color=829FC5" alt="yeah, crashing out at leetcode" />
-    <img src="https://img.shields.io/badge/%E2%99%A1_currently_building-daydream_village-A97550?style=flat-square&labelColor=F4DCE5&color=FFF5E8" alt="currently building: daydream village" />
+    <img src="https://img.shields.io/badge/probably-crashing%20out%20at%20leetcode-C9DDF5?style=flat-square&labelColor=FFF5E8&color=829FC5" alt="yeah, crashing out at leetcode" />
+    <img src="https://img.shields.io/badge/currently_building-daydream_village-A97550?style=flat-square&labelColor=F4DCE5&color=FFF5E8" alt="currently building: daydream village" />
   </p>
   <p><i>making projects that i actually love, check them out!</i></p>
 </div>
