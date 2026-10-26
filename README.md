@@ -45,7 +45,7 @@
   <a href="https://alyahli.ca">portfolio</a> ·
   <a href="https://github.com/lyri3aly?tab=repositories">all my projects</a>
   <br /><br />
-  <sub>made with coffee and a cookie ♡</sub>
+  <sub>made with caffeine</sub>
   <br />
   <sup><sub>stack overflowing because of school</sub></sup>
 </div>
